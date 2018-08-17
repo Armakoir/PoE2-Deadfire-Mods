@@ -1,0 +1,402 @@
+﻿{
+    "GameDataObjects": [
+        {
+			"$type": "Game.GameData.CharacterSubClassGameData, Assembly-CSharp",
+			"DebugName": "Rogue_Trickster",
+			"ID": "b20b6721-67a5-45f9-9ae0-83f4686eccd9",
+			"Components": [{
+					"$type": "Game.GameData.CharacterSubClassComponent, Assembly-CSharp",
+					"DescriptionText": 35013
+				}
+			]
+		}, {
+			"$type": "Game.GameData.CharacterSubClassGameData, Assembly-CSharp",
+			"DebugName": "Rogue_Streetfighter",
+			"ID": "db98a320-6781-4469-b450-dec52ada245a",
+			"Components": [{
+					"$type": "Game.GameData.CharacterSubClassComponent, Assembly-CSharp",
+					"DescriptionText": 35014
+				}
+			]
+		}, {
+			"$type": "Game.GameData.CharacterSubClassGameData, Assembly-CSharp",
+			"DebugName": "Rogue_Assassin",
+			"ID": "ff4e2496-c063-4274-afe3-653f06094b1c",
+			"Components": [{
+					"$type": "Game.GameData.CharacterSubClassComponent, Assembly-CSharp",
+					"DescriptionText": 35015
+				}
+			]
+		}, {
+			"$type": "Game.GameData.GenericAbilityGameData, Assembly-CSharp",
+			"DebugName": "Shadowing_Beyond",
+			"ID": "e110ab6f-f378-496f-b207-b557ea782f4f",
+			"Components": [{
+					"$type": "Game.GameData.GenericAbilityComponent, Assembly-CSharp",
+					"UsageValue": 2
+				}
+			]
+		},	{
+			"$type": "Game.GameData.GenericAbilityGameData, Assembly-CSharp",
+			"DebugName": "Shadow_Step",
+			"ID": "e1668937-c325-45ec-a53e-7fb9ba421abe",
+			"Components": [{
+					"$type": "Game.GameData.GenericAbilityComponent, Assembly-CSharp",
+					"UsageValue": 2
+				}
+			]
+		},	{
+			"$type": "Game.GameData.WeaponAttackAbilityGameData, Assembly-CSharp",
+			"DebugName": "Withering_Strike",
+			"ID": "e89bcf5c-5b28-4792-aff1-7daa02262d1e",
+			"Components": [{
+					"$type": "Game.GameData.GenericAbilityComponent, Assembly-CSharp",
+					"UsageValue": 2
+				}
+			]
+		},	{
+			"$type": "Game.GameData.FinishingBlowAbilityGameData, Assembly-CSharp",
+			"DebugName": "Devastating_Blow",
+			"ID": "32c92168-485c-4076-8251-54ad9dc030e3",
+			"Components": [{
+					"$type": "Game.GameData.GenericAbilityComponent, Assembly-CSharp",
+					"UsageValue": 3
+				}
+			]
+		},	{
+			"$type": "Game.GameData.FinishingBlowAbilityGameData, Assembly-CSharp",
+			"DebugName": "Eliminating_Blow",
+			"ID": "386bdde4-9754-4ebf-931d-18c3b5c73b5b",
+			"Components": [{
+					"$type": "Game.GameData.GenericAbilityComponent, Assembly-CSharp",
+					"UsageValue": 3
+				}
+			]
+		},	{
+			"$type": "Game.GameData.WeaponAttackAbilityGameData, Assembly-CSharp",
+			"DebugName": "Blinding_Strike",
+			"ID": "7eb29970-dfae-4c45-9dd5-203c4f9b2f8c",
+			"Components": [{
+					"$type": "Game.GameData.GenericAbilityComponent, Assembly-CSharp",
+					"UsageValue": 1
+				}
+			]
+		},	{
+			"$type": "Game.GameData.WeaponAttackAbilityGameData, Assembly-CSharp",
+			"DebugName": "Debilitating_Strike",
+			"ID": "5d9e8d52-1ad3-4217-b3bd-7d0ba32bc9c8",
+			"Components": [{
+					"$type": "Game.GameData.GenericAbilityComponent, Assembly-CSharp",
+					"UsageValue": 2
+				}
+			]
+		},	{
+			"$type": "Game.GameData.WeaponAttackAbilityGameData, Assembly-CSharp",
+			"DebugName": "Arterial_Strike",
+			"ID": "da59e137-4636-4362-9fce-e0c5e5394a06",
+			"Components": [{
+					"$type": "Game.GameData.GenericAbilityComponent, Assembly-CSharp",
+					"UsageValue": 2
+				}
+			]
+		},	{
+			"$type": "Game.GameData.WeaponAttackAbilityGameData, Assembly-CSharp",
+			"DebugName": "Break_The_Bell",
+			"ID": "e8dbfaf0-b7c1-4c4a-bf1e-d85020826712",
+			"Components": [{
+					"$type": "Game.GameData.GenericAbilityComponent, Assembly-CSharp",
+					"UsageValue": 3
+				}
+			]
+		},	{
+			"$type": "Game.GameData.WeaponAttackAbilityGameData, Assembly-CSharp",
+			"DebugName": "Ring_The_Bell",
+			"ID": "554f351c-9441-4861-a3cc-9a5f20d7fa28",
+			"Components": [{
+					"$type": "Game.GameData.GenericAbilityComponent, Assembly-CSharp",
+					"UsageValue": 3
+				}
+			]
+		},	{
+			"$type": "Game.GameData.WeaponAttackAbilityGameData, Assembly-CSharp",
+			"DebugName": "Pierce_The_Bell",
+			"ID": "bfac9c06-7259-4094-ab14-f1bcfaa4ce07",
+			"Components": [{
+					"$type": "Game.GameData.GenericAbilityComponent, Assembly-CSharp",
+					"UsageValue": 3
+				}
+			]
+		},	{
+			"$type": "Game.GameData.AttackAOEGameData, Assembly-CSharp",
+			"DebugName": "Smoke_Cloud_AOE",
+			"ID": "82eec3a0-4665-4652-8b92-7460fe338574",
+			"Components": [{
+					"$type": "Game.GameData.AttackBaseComponent, Assembly-CSharp",
+					"StatusEffectsIDs": ["554e568a-b284-439f-b207-ac50261bbb20"]
+				}
+			]
+		},	{
+			"$type": "Game.GameData.AttackAOEGameData, Assembly-CSharp",
+			"DebugName": "Pernicious_Cloud_AOE",
+			"ID": "1b0175a3-8fdc-4d0b-9fb0-975f51b9b393",
+			"Components": [{
+					"$type": "Game.GameData.AttackBaseComponent, Assembly-CSharp",
+					"StatusEffectsIDs": ["554e568a-b284-439f-b207-ac50261bbb20", "23b42c69-62f0-46db-ac21-1bc364594882"]
+				}
+			]
+		},	{
+			"$type": "Game.GameData.AttackAOEGameData, Assembly-CSharp",
+			"DebugName": "Smoke_Grenade_AOE",
+			"ID": "73684511-e019-45b9-a180-fea125b78da7",
+			"Components": [{
+					"$type": "Game.GameData.AttackBaseComponent, Assembly-CSharp",
+					"StatusEffectsIDs": ["554e568a-b284-439f-b207-ac50261bbb20", "f0287dbc-e56d-456f-9885-863b0108f2f5"]
+				}
+			]
+		},	{
+			"$type": "Game.GameData.StatusEffectGameData, Assembly-CSharp",
+			"DebugName": "Backstab_SE_DamageMult",
+			"ID": "2d02288e-abba-4775-a12c-938571a1ab73",
+			"Components": [{
+					"$type": "Game.GameData.StatusEffectComponent, Assembly-CSharp",
+					"BaseValue": 2.5,
+					"PowerLevelScaling": {
+						"BaseLevel": 1,
+						"DurationAdjustment": 0,
+						"LevelIncrement": 1,
+						"MaxLevel": 0,
+						"UseCharacterLevel": "false",
+						"ValueAdjustment": 0.05
+					}
+				}
+			]
+		},	{
+			"$type": "Game.GameData.StatusEffectGameData, Assembly-CSharp",
+			"DebugName": "Streetfighter_SE_DamageMult",
+			"ID": "8407030b-3b0a-4639-baf4-fc5c569c112d",
+			"Components": [{
+					"$type": "Game.GameData.StatusEffectComponent, Assembly-CSharp",
+					"PowerLevelScaling": {
+						"BaseLevel": 1,
+						"DurationAdjustment": 0,
+						"LevelIncrement": 1,
+						"MaxLevel": 0,
+						"UseCharacterLevel": "false",
+						"ValueAdjustment": 0.05
+					}
+				}
+			]
+		},	{
+			"$type": "Game.GameData.GenericAbilityGameData, Assembly-CSharp",
+			"DebugName": "Riposte",
+			"ID": "959d1aee-330f-4834-99b4-c44803a54030",
+			"Components": [{
+					"$type": "Game.GameData.GenericAbilityComponent, Assembly-CSharp",
+					"ActivationPrerequisites": {
+						"Conditional": {
+							"Components": [],
+							"Operator": 0
+						}
+					},
+					"DeactivationPrerequisites": {
+						"Conditional": {
+							"Components": [],
+							"Operator": 0
+						}
+					},
+					"Description": 35112
+				}
+			]
+		},	{
+			"$type": "Game.GameData.StatusEffectGameData, Assembly-CSharp",
+			"DebugName": "Riposte_SE_AttackOnEvent",
+			"ID": "444eab5d-26aa-4722-ad95-3afe24606d3d",
+			"Components": [{
+					"$type": "Game.GameData.StatusEffectComponent, Assembly-CSharp",
+					"AfflictionTypeValueID": "00000000-0000-0000-0000-000000000000",
+					"ApplicationBehavior": "UseLongerDurationIfAlreadyApplied",
+					"ApplicationPrerequisites": {
+						"Conditional": {
+							"Components": [],
+							"Operator": 0
+						}
+					},
+					"ApplicationType": "ApplyOnStart",
+					"AttackFilter": {
+						"AttackHostility": "Default",
+						"ChanceToApply": 1,
+						"ClassTypeID": "00000000-0000-0000-0000-000000000000",
+						"DefendedBy": "Deflection",
+						"Disengagement": "false",
+						"Empowered": "false",
+						"KeywordLogic": "Or",
+						"KeywordsIDs": [],
+						"PowerLevel": 0,
+						"PowerLevelOperator": "EqualTo",
+						"Range": "Melee",
+						"Source": "Weapon",
+						"Stealthed": "false",
+						"UseStealthLinger": "false"
+					},
+					"AttackHitType": "None",
+					"AttackOverrideValue": "Primary", //changed
+					"AttackTargetFilter": {
+						"Distance": 0,
+						"DistanceOperator": "EqualTo",
+						"HasDOT": "false",
+						"HealthOperator": "EqualTo",
+						"HealthPercentage": 0,
+						"IsKith": "false",
+						"IsMarked": "false",
+						"KeywordLogic": "Or",
+						"KeywordsIDs": [],
+						"Race": "None",
+						"TargetHostility": "Default"
+					},
+					"AttackValueID": "00000000-0000-0000-0000-000000000000",
+					"AudioEventListID": "00000000-0000-0000-0000-000000000000",
+					"BaseValue": 0,
+					"BedRestDaysMaximum": 0,
+					"BedRestDaysMinimum": 0,
+					"ClassValueID": "00000000-0000-0000-0000-000000000000",
+					"ClearOnCombatEnd": "false",
+					"ClearOnDeath": "false",
+					"ClearOnFoodRest": "false",
+					"ClearOnRest": "false",
+					"ClearWhenAttacks": "false",
+					"DamageTypeValue": "All",
+					"Duration": 0,
+					"DurationType": "Infinite",
+					"DynamicValue": {
+						"ClassID": "00000000-0000-0000-0000-000000000000",
+						"MultiplyBy": 1,
+						"Operator": "Add",
+						"SkillDataID": "00000000-0000-0000-0000-000000000000",
+						"Stat": "None"
+					},
+					"EventValue": "OnMissed",
+					"ExtraValue": 0,
+					"HideFromCombatLog": "false",
+					"HideFromCombatTooltip": "true",
+					"HideFromUI": "false",
+					"IntervalRateID": "00000000-0000-0000-0000-000000000000",
+					"IsHostile": "false",
+					"ItemValueID": "00000000-0000-0000-0000-000000000000",
+					"KeywordValueID": "00000000-0000-0000-0000-000000000000",
+					"KeywordsIDs": [],
+					"MaterialReplacementID": "00000000-0000-0000-0000-000000000000",
+					"MaxStackQuantity": 0,
+					"OverrideDescriptionString": -1,
+					"OverridePenetration": 0,
+					"PowerLevelScaling": {
+						"BaseLevel": 0,
+						"DurationAdjustment": 0,
+						"LevelIncrement": 1,
+						"MaxLevel": 0,
+						"UseCharacterLevel": "false",
+						"ValueAdjustment": 0
+					},
+					"RaceValue": "None",
+					"SkillValueID": "00000000-0000-0000-0000-000000000000",
+					"StackedChildrenApplyEffects": "false",
+					"StatusEffectType": "AttackEnemyOnEvent",
+					"StatusEffectTypeValue": "None",
+					"StatusEffectsValueIDs": [],
+					"TriggerAdjustment": {
+						"ChanceToTrigger": 1,
+						"DurationAdjustment": 0,
+						"IgnoreMaxTriggerCount": "false",
+						"MaxTriggerCount": 0,
+						"ParamValue": 0,
+						"RemoveEffectAtMax": "false",
+						"ResetTriggerOnEffectTimeout": "false",
+						"TriggerOffEvent": "None",
+						"TriggerOnEvent": "None",
+						"ValidateWithAttackFilter": "false",
+						"ValueAdjustment": 0
+					},
+					"UseStatusEffectValueAs": "None",
+					"VisualEffects": [],
+					"WeaponTypeValue": "None"
+				}
+			]
+		}, 	{
+			"$type": "Game.GameData.GenericAbilityGameData, Assembly-CSharp",
+			"DebugName": "Smoke_Cloud",
+			"ID": "59efd9b3-33f8-41f4-9976-06c4b72a7bb6",
+			"Components": [{
+					"$type": "Game.GameData.GenericAbilityComponent, Assembly-CSharp",
+					"Description": 35115,
+					"UpgradedFromID": "bfd3b60d-35ba-4c64-a9ca-fd3395fa3c4f"
+				}
+			]
+		},	{
+			"$type": "Game.GameData.GenericAbilityGameData, Assembly-CSharp",
+			"DebugName": "Pernicious_Cloud",
+			"ID": "0cd190ac-00f0-4f3c-a7dc-960efa88df57",
+			"Components": [{
+					"$type": "Game.GameData.GenericAbilityComponent, Assembly-CSharp",
+					"Description": 35115,
+					"UpgradeDescriptions": [{
+							"String": 35116
+						}
+					],
+					"UsageValue": 3
+				}
+			]
+		},	{
+			"$type": "Game.GameData.GenericAbilityGameData, Assembly-CSharp",
+			"DebugName": "Smoke_Grenade",
+			"ID": "0dfe2284-a7d0-4344-a110-77580b9740b4",
+			"Components": [{
+					"$type": "Game.GameData.GenericAbilityComponent, Assembly-CSharp",
+					"Description": 35115,
+					"UsageValue": 3
+				}
+			]
+		},	{
+			"$type": "Game.GameData.GenericAbilityGameData, Assembly-CSharp",
+			"DebugName": "Streetfighter_BloodiedAndFlanked",
+			"ID": "4e2d9645-60a3-4fa9-8d98-9e4f302d25e0",
+			"Components": [{
+					"$type": "Game.GameData.GenericAbilityComponent, Assembly-CSharp",
+					"Icon": "gui/icons/abilities/rogue/sap.png",
+					"DisplayName": 35120
+				}
+			]
+		},	{
+			"$type": "Game.GameData.GenericAbilityGameData, Assembly-CSharp",
+			"DebugName": "Streetfighter_BloodiedOrFlanked",
+			"ID": "369a0069-f7d0-4ef9-925b-d2e6b10cf78e",
+			"Components": [{
+					"$type": "Game.GameData.GenericAbilityComponent, Assembly-CSharp",
+					"Icon": "gui/icons/abilities/rogue/sap.png",
+					"DisplayName": 35121
+				}
+			]
+		},	{
+			"$type": "Game.GameData.GenericAbilityGameData, Assembly-CSharp",
+			"DebugName": "Streetfighter_NotBloodiedOrFlanked",
+			"ID": "8e60ff6a-bcb7-448d-a074-d74c6ac944fe",
+			"Components": [{
+					"$type": "Game.GameData.GenericAbilityComponent, Assembly-CSharp",
+					"Icon": "gui/icons/abilities/rogue/sap.png",
+					"DisplayName": 35122
+				}
+			]
+		},	{
+			"$type": "Game.GameData.GenericAbilityGameData, Assembly-CSharp",
+			"DebugName": "Trickster",
+			"ID": "3e3261e9-e20f-42b8-9a3f-ddf5a300d520",
+			"Components": [{
+					"$type": "Game.GameData.GenericAbilityComponent, Assembly-CSharp",
+					"Icon": "gui/icons/abilities/wizard/arkemyrs_dazzling_lights.png",
+					"UpgradeDescriptions": [{
+						"String": 35123
+						}
+					]
+				}
+			]
+		}	
+    ]
+}

@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <Name>game\abilities</Name>
+    <Entries>
+		<Entry>
+		  <ID>1139</ID>
+		  <DefaultText>Dramatically increases damage done from Stealth or Invisibility using melee or ranged weapons.</DefaultText>
+		  <FemaleText />
+		</Entry>
+        <Entry>
+            <ID>34996</ID>
+            <DefaultText>Surprise Attack</DefaultText>
+            <FemaleText />
+        </Entry>
+        <Entry>
+            <ID>34995</ID>
+            <DefaultText>Surprise Attack allows this Rogue to inflict significant damage while not requiring stealth. This ability will activate at the beginning of combat for a short duration. If stealthed when combat begins, this ability will activate after stealth is removed, and will reactivate after each usage of stealth or invisibility.</DefaultText>
+            <FemaleText />
+        </Entry>
+		<Entry>
+            <ID>35101</ID>
+            <DefaultText>Hidden Blade</DefaultText>
+            <FemaleText />
+        </Entry>
+        <Entry>
+            <ID>35102</ID>
+            <DefaultText>The Swiftblade has a 30% chance to inflict a Primary weapon attack after dodging a Deflection based melee attack. This attack has a chance to inflict Bleeding.
+			
+This ability is gained automatically if Riposte has been unlocked and does not replace Riposte. Both Riposte and Hidden Blade proc independently.
+
+(There is currently no animation for this attack.)</DefaultText>
+            <FemaleText />
+        </Entry>
+		<Entry>
+            <ID>35103</ID>
+            <DefaultText>Leaping Riposte</DefaultText>
+            <FemaleText />
+        </Entry>
+        <Entry>
+            <ID>35104</ID>
+            <DefaultText>The Acrobat has a 30% chance to inflict a Primary weapon attack after dodging a Deflection based melee attack. This attack has a chance to knock the enemy Prone.
+			
+This ability is gained automatically if Riposte has been unlocked and does not replace Riposte. Both Riposte and Leaping Riposte proc independently.
+
+(There is currently no animation for this attack.)</DefaultText>
+            <FemaleText />
+        </Entry>
+		<Entry>
+            <ID>35105</ID>
+            <DefaultText>Acrobatic Escape</DefaultText>
+            <FemaleText />
+        </Entry>
+		<Entry>
+            <ID>35106</ID>
+            <DefaultText>Acrobat</DefaultText>
+            <FemaleText />
+        </Entry>
+		<Entry>
+            <ID>35107</ID>
+            <DefaultText>&lt;b&gt;Bonus&lt;/b&gt;
+Gains the Agility passive.
+Gains access to the Leaping Riposte passive.
+The Escape ability does not require Guile.
+
+&lt;b&gt;Penalty&lt;/b&gt;
+Loses access to the Backstab passive.
+Gains the Encumberance passive.</DefaultText>
+            <FemaleText />
+        </Entry>
+		<Entry>
+            <ID>35108</ID>
+            <DefaultText>Agile</DefaultText>
+            <FemaleText />
+        </Entry>
+		<Entry>
+            <ID>35109</ID>
+            <DefaultText>For every point into Athletics, the Acrobat receives +1 Deflection and Reflex.</DefaultText>
+            <FemaleText />
+        </Entry>
+		<Entry>
+            <ID>35110</ID>
+            <DefaultText>Encumberance</DefaultText>
+            <FemaleText />
+        </Entry>
+		<Entry>
+            <ID>35111</ID>
+            <DefaultText>The Acrobat suffers an additional 20% Recovery penalty when wearing medium or heavy armor, or when equipping a shield.</DefaultText>
+            <FemaleText />
+        </Entry>
+		<Entry>
+            <ID>35112</ID>
+            <DefaultText>The Rogue has a 30% chance to inflict a Primary weapon attack after dodging a Deflection based melee attack.</DefaultText>
+            <FemaleText />
+        </Entry>
+		<Entry>
+			<ID>35113</ID>
+			<DefaultText>Upon being hit or critical hit, the Rogue has a 10% chance of sapping his attacker, which causes Shaken for a short duration.</DefaultText>
+			<FemaleText />
+		</Entry>
+		<Entry>
+			<ID>35114</ID>
+			<DefaultText>(Perplexing Sap) The rogue's sapping strike has a 20% chance to proc.</DefaultText>
+			<FemaleText />
+		</Entry>
+		<Entry>
+			<ID>35115</ID>
+			<DefaultText>The rogue creates a cloud of smoke that leaves all enemies within Confused.</DefaultText>
+			<FemaleText />
+		</Entry>
+		<Entry>
+			<ID>35116</ID>
+			<DefaultText>(Pernicious Cloud) The cloud applies an additional Corrosive damage over time effect.</DefaultText>
+			<FemaleText />
+		</Entry>
+		<Entry>
+			<ID>35117</ID>
+			<DefaultText>Marked for Death</DefaultText>
+			<FemaleText />
+		</Entry>
+		<Entry>
+			<ID>35118</ID>
+			<DefaultText>The Assassin identifies his target and determines its fate.</DefaultText>
+			<FemaleText />
+		</Entry>
+		<Entry>
+			<ID>35119</ID>
+			<DefaultText>The Assassin gains a bonus against his chosen target until that target has been eliminated.</DefaultText>
+			<FemaleText />
+		</Entry>
+		<Entry>
+			<ID>35120</ID>
+			<DefaultText>On The Edge</DefaultText>
+			<FemaleText />
+		</Entry>
+		<Entry>
+			<ID>35121</ID>
+			<DefaultText>Heating Up</DefaultText>
+			<FemaleText />
+		</Entry>
+		<Entry>
+			<ID>35122</ID>
+			<DefaultText>Looking for a Fight</DefaultText>
+			<FemaleText />
+		</Entry>
+		<Entry>
+			<ID>35123</ID>
+			<DefaultText>The Trickster is granted the Arkemyr's Dazzling Lights spell.</DefaultText>
+			<FemaleText />
+		</Entry>
+		<Entry>
+			<ID>35124</ID>
+			<DefaultText>Spectre</DefaultText>
+			<FemaleText />
+		</Entry>
+		<Entry>
+			<ID>35125</ID>
+			<DefaultText>Spectre Passive Ability</DefaultText>
+			<FemaleText />
+		</Entry>
+		<Entry>
+			<ID>35126</ID>
+			<DefaultText>Grenade</DefaultText>
+			<FemaleText />
+		</Entry>
+		<Entry>
+			<ID>35127</ID>
+			<DefaultText>Saboteur</DefaultText>
+			<FemaleText />
+		</Entry>
+		<Entry>
+			<ID>35128</ID>
+			<DefaultText>Stun Bomb</DefaultText>
+			<FemaleText />
+		</Entry>
+		<Entry>
+			<ID>35129</ID>
+			<DefaultText>Unused</DefaultText>
+			<FemaleText />
+		</Entry>
+		<Entry>
+			<ID>35130</ID>
+			<DefaultText>Detonate</DefaultText>
+			<FemaleText />
+		</Entry>
+		<Entry>
+			<ID>35131</ID>
+			<DefaultText>The Saboteur may choose to detonate all currently attached explosives within the radius.</DefaultText>
+			<FemaleText />
+		</Entry>
+		<Entry>
+			<ID>35132</ID>
+			<DefaultText>Cinder Bomb</DefaultText>
+			<FemaleText />
+		</Entry>
+		<Entry>
+			<ID>35133</ID>
+			<DefaultText>Unused</DefaultText>
+			<FemaleText />
+		</Entry>
+		<Entry>
+			<ID>35134</ID>
+			<DefaultText>Concussion Bomb</DefaultText>
+			<FemaleText />
+		</Entry>
+		<Entry>
+			<ID>35135</ID>
+			<DefaultText>Unused</DefaultText>
+			<FemaleText />
+		</Entry>
+		<Entry>
+			<ID>35136</ID>
+			<DefaultText>Immolator</DefaultText>
+			<FemaleText />
+		</Entry>
+		<Entry>
+			<ID>35137</ID>
+			<DefaultText>Unused</DefaultText>
+			<FemaleText />
+		</Entry>
+		<Entry>
+			<ID>35138</ID>
+			<DefaultText>Unstable Essence</DefaultText>
+			<FemaleText />
+		</Entry>
+		<Entry>
+			<ID>35139</ID>
+			<DefaultText>Unused</DefaultText>
+			<FemaleText />
+		</Entry>
+		<Entry>
+			<ID>35140</ID>
+			<DefaultText>Blister Bomb</DefaultText>
+			<FemaleText />
+		</Entry>
+		<Entry>
+			<ID>35141</ID>
+			<DefaultText>Unused</DefaultText>
+			<FemaleText />
+		</Entry>
+		<Entry>
+			<ID>35142</ID>
+			<DefaultText>Implosion Charge</DefaultText>
+			<FemaleText />
+		</Entry>
+		<Entry>
+			<ID>35143</ID>
+			<DefaultText>Unused</DefaultText>
+			<FemaleText />
+		</Entry>
+		<Entry>
+			<ID>35144</ID>
+			<DefaultText>Lightning Bomb</DefaultText>
+			<FemaleText />
+		</Entry>
+		<Entry>
+			<ID>35145</ID>
+			<DefaultText>Unused</DefaultText>
+			<FemaleText />
+		</Entry>
+		<Entry>
+			<ID>35146</ID>
+			<DefaultText>Frost Bomb</DefaultText>
+			<FemaleText />
+		</Entry>
+		<Entry>
+			<ID>35147</ID>
+			<DefaultText>Unused</DefaultText>
+			<FemaleText />
+		</Entry>
+    </Entries>
+</StringTableFile>

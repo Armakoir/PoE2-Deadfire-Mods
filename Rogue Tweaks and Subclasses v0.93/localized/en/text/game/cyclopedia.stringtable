@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <Name>game\cyclopedia</Name>
+    <Entries>
+        <Entry>
+            <ID>35101</ID>
+            <DefaultText>Saboteurs come prepared with a variety of explosives at their disposal.</DefaultText>
+            <FemaleText />
+        </Entry>
+		<Entry>
+            <ID>35102</ID>
+            <DefaultText>An Acrobat is the most agile of rogues and use the innate abilities of their body to avoid enemy attacks, reposition to gain advantage, or to strike where they are least expected.</DefaultText>
+            <FemaleText />
+        </Entry>
+		<Entry>
+            <ID>35103</ID>
+            <DefaultText>Cutpurse Summary</DefaultText>
+            <FemaleText />
+        </Entry>
+		<Entry>
+            <ID>35104</ID>
+            <DefaultText>Spectre Summary</DefaultText>
+            <FemaleText />
+        </Entry>
+		<Entry>
+            <ID>35105</ID>
+            <DefaultText>Agent Summary</DefaultText>
+            <FemaleText />
+        </Entry>
+		<Entry>
+            <ID>35106</ID>
+            <DefaultText>In lieu of subtlety and subterfuge, Swiftblades use their speed and ability to unsheath weapons quickly to inflict surprisingly heavy damage upon their opponents.</DefaultText>
+            <FemaleText />
+        </Entry>
+    </Entries>
+</StringTableFile>

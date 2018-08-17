@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>game\statuseffects</Name>
+  <Entries>
+	<Entry>
+      <ID>34000</ID>
+      <DefaultText>Testing</DefaultText>
+      <FemaleText />
+    </Entry>
+	<Entry>
+      <ID>35201</ID>
+      <DefaultText>Empty</DefaultText>
+      <FemaleText />
+    </Entry>
+	<Entry>
+      <ID>35202</ID>
+      <DefaultText>Empty</DefaultText>
+      <FemaleText />
+    </Entry>
+	<Entry>
+      <ID>35203</ID>
+      <DefaultText>Marked for Death</DefaultText>
+      <FemaleText />
+    </Entry>
+	<Entry>
+      <ID>35204</ID>
+      <DefaultText>Grenade</DefaultText>
+      <FemaleText />
+    </Entry>
+	<Entry>
+      <ID>35205</ID>
+      <DefaultText>Stun Bomb</DefaultText>
+      <FemaleText />
+    </Entry>
+	<Entry>
+      <ID>35206</ID>
+      <DefaultText>Detonate</DefaultText>
+      <FemaleText />
+    </Entry>
+	<Entry>
+      <ID>35207</ID>
+      <DefaultText>Attached</DefaultText>
+      <FemaleText />
+    </Entry>
+	<Entry>
+      <ID>35208</ID>
+      <DefaultText>Explosion!</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

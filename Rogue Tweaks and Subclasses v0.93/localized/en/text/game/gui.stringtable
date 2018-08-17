@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <Name>game\gui</Name>
+    <Entries>
+        <Entry>
+            <ID>35001</ID>
+            <DefaultText>Saboteur</DefaultText>
+            <FemaleText />
+        </Entry>
+        <Entry>
+            <ID>35002</ID>
+            <DefaultText>&lt;b&gt;Bonus&lt;/b&gt;
+Granted the Stun Bomb and Cinder Bomb explosive abilities.
+Gains access to additional explosive abilities.
+
+&lt;b&gt;Penalty&lt;/b&gt;
+Loses the Sneak Attack passive.
+Loses access to the Backstab passive.</DefaultText>
+            <FemaleText />
+        </Entry>
+		<Entry>
+            <ID>35003</ID>
+            <DefaultText>Acrobat</DefaultText>
+            <FemaleText />
+        </Entry>
+        <Entry>
+            <ID>35004</ID>
+            <DefaultText>&lt;b&gt;Bonus&lt;/b&gt;
+Granted the Agile passive.
+Granted the Leaping Riposte passive after unlocking Riposte.
+The Acrobatic Escape ability does not require Guile.
+
+&lt;b&gt;Penalty&lt;/b&gt;
+Loses access to the Backstab passive.
+Gains the Encumberance passive.</DefaultText>
+            <FemaleText />
+        </Entry>
+		<Entry>
+            <ID>35005</ID>
+            <DefaultText>Cutpurse</DefaultText>
+            <FemaleText />
+        </Entry>
+        <Entry>
+            <ID>35006</ID>
+            <DefaultText>&lt;b&gt;Bonus&lt;/b&gt;
+TBD
+
+&lt;b&gt;Penalty&lt;/b&gt;
+TBD</DefaultText>
+            <FemaleText />
+        </Entry>
+		<Entry>
+            <ID>35007</ID>
+            <DefaultText>Spectre</DefaultText>
+            <FemaleText />
+        </Entry>
+        <Entry>
+            <ID>35008</ID>
+            <DefaultText>&lt;b&gt;Bonus&lt;/b&gt;
+TBD
+
+&lt;b&gt;Penalty&lt;/b&gt;
+TBD</DefaultText>
+            <FemaleText />
+        </Entry>
+		<Entry>
+            <ID>35009</ID>
+            <DefaultText>Agent</DefaultText>
+            <FemaleText />
+        </Entry>
+        <Entry>
+            <ID>35010</ID>
+            <DefaultText>&lt;b&gt;Bonus&lt;/b&gt;
+Granted the Impersonate passive.
+
+&lt;b&gt;Penalty&lt;/b&gt;
+Loses access to the Backstab passive.</DefaultText>
+            <FemaleText />
+        </Entry>
+		<Entry>
+            <ID>35011</ID>
+            <DefaultText>Swiftblade</DefaultText>
+            <FemaleText />
+        </Entry>
+        <Entry>
+            <ID>35012</ID>
+            <DefaultText>&lt;b&gt;Bonus&lt;/b&gt;
+Granted the Quick Switch passive.
+Granted the Surprise Attack passive.
+Granted the Hidden Blade passive after unlocking Riposte.
+
+&lt;b&gt;Penalty&lt;/b&gt;
+Loses the Sneak Attack passive.</DefaultText>
+            <FemaleText />
+        </Entry>
+		<Entry>
+            <ID>35013</ID>
+            <DefaultText>&lt;b&gt;Bonus&lt;/b&gt;
+Granted select Guile-based Illusion spells upon reaching new Power Levels.
+
+&lt;b&gt;Penalty&lt;/b&gt;
+Loses access to the Backstab passive.</DefaultText>
+            <FemaleText />
+        </Entry>
+		<Entry>
+            <ID>35014</ID>
+            <DefaultText>&lt;b&gt;Bonus&lt;/b&gt;
+Sneak Attack becomes more deadly and Recovery decreases when the street fighter is Flanked or Bloodied. Weapon Crit damage increases when the street fighter is both Flanked and Bloodied.
+
+&lt;b&gt;Penalty&lt;/b&gt;
+Recovery is slower when the street fighter is neither Flanked nor Bloodied.
+
+Loses access to the Backstab passive.</DefaultText>
+            <FemaleText />
+        </Entry>
+		<Entry>
+            <ID>35015</ID>
+            <DefaultText>&lt;b&gt;Bonus&lt;/b&gt;
+Granted the Marked for Death ability.
+Granted the Assassinate passive.
+Granted the Surprise Attack passive.
+
+&lt;b&gt;Penalty&lt;/b&gt;
+Loses the Sneak Attack passive.
+Loses access to the Sap and Perplexing Sap passives.
+Takes 15% increased incoming damage.</DefaultText>
+            <FemaleText />
+        </Entry>
+    </Entries>
+</StringTableFile>

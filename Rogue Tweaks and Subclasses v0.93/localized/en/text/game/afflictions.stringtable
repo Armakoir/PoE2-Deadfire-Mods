@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>game\afflictions</Name>
+  <Entries>
+	<Entry>
+      <ID>35000</ID>
+      <DefaultText>Testing</DefaultText>
+      <FemaleText />
+    </Entry>
+	<Entry>
+      <ID>35301</ID>
+      <DefaultText>Empty</DefaultText>
+      <FemaleText />
+    </Entry>
+	<Entry>
+      <ID>35302</ID>
+      <DefaultText>Empty</DefaultText>
+      <FemaleText />
+    </Entry>
+	<Entry>
+      <ID>35303</ID>
+      <DefaultText>Marked for Death</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

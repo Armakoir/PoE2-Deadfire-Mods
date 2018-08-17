@@ -1,0 +1,10 @@
+blister_bomb_s = 0 0 42 42
+cinder_bomb_s = 43 0 42 42
+concussion_bomb_s = 0 43 42 42
+flash_bomb_s = 43 43 42 42
+frost_bomb_s = 86 0 42 42
+gunpowder_bomb_s = 86 43 42 42
+immolator_s = 129 0 42 42
+implosion_charge_s = 172 0 42 42
+lightning_bomb_s = 129 43 42 42
+unstable_soul_essence_s = 172 43 42 42
